@@ -1,0 +1,32 @@
+# This file should contain all the record creation needed to seed the database with its default values.
+# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
+#
+# Examples:
+#
+#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
+#   Character.create(name: 'Luke', movie: movies.first)
+User.create(username:"alian", password:"123456")
+User.create(username:"alianis", password:"123456")
+User.create(username:"alianista", password:"123456")
+User.create(username:"alianistads", password:"123456")
+User.create(username:"alianistadsfs", password:"123456")
+User.create(username:"alianisti", password:"123456")
+User.create(username:"alianistqw", password:"123456")
+User.create(username:"alianisters", password:"123456")
+User.create(username:"boby", password:"123456")
+User.create(username:"johan", password:"123456")
+User.create(username:"jlie", password:"123456")
+User.create(username:"jliesd", password:"123456")
+User.create(username:"jliesdsd", password:"123456")
+User.create(username:"jliesdsdsd", password:"123456")
+User.create(username:"jliesdsdsdasd", password:"123456")
+User.create(username:"jliesdsdsdasdasd", password:"123456")
+User.create(username:"jliesdsdsdasdasdasd", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsad", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsadsadasd", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsadsadsadasdsad", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsadsadsadsadasdsad", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsadsadsadsadasdasdsad", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdsadsadsadsadasdasdasdsad", password:"12sad3456")
+User.create(username:"jliesdsdsdasdasdasdasdsadsadsadasdasdasdsad", password:"123456")
+User.create(username:"jliesdsdsdasdasdasdasdsadsadsadasdasdasdasd", password:"1234jliesdsdsdsadasdasdasdasdsadsadasdasdasdasd")
